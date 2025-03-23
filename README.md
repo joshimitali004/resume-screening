@@ -26,7 +26,11 @@ resume-screening/
 │── requirements.txt   # Required dependencies
 │── README.md          # Project documentation
 │── sample_resume.pdf  # Example resume for testing
-Installation
+
+
+
+
+Installation & Setup
 1. Clone the Repository
 sh
 Copy
@@ -50,20 +54,20 @@ sh
 Copy
 Edit
 python -m spacy download en_core_web_sm
-Usage
-1. Run the Application
+5. Run the Application
 sh
 Copy
 Edit
 streamlit run main.py
-2. Upload Resumes & Enter Job Description
+Usage
+1. Upload Resumes & Enter Job Description
 Select and upload multiple resumes
 
 Input the job description
 
 Click "Rank Resumes" to get scores
 
-3. View Results
+2. View Results
 The app will display resumes ranked by relevance
 
 Higher scores indicate a better match
@@ -121,15 +125,7 @@ Improve data visualization with interactive dashboards
 Implement custom deep learning models
 
 License
-This project is open-source and free to use.
+This project is open-source and free to use. 
 
-graphql
-Copy
-Edit
 
-### Final Steps to Push README to GitHub:  
-```sh
-git add README.md
-git commit -m "Added complete README"
-git push origin main
 
