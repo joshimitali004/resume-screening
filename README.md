@@ -26,7 +26,7 @@ resume-screening/
 │── requirements.txt   # Required dependencies
 │── README.md          # Project documentation
 │── sample_resume.pdf  # Example resume for testing
-
+```
 
 
 
@@ -125,7 +125,7 @@ Improve data visualization with interactive dashboards
 Implement custom deep learning models
 
 License
-This project is open-source and free to use. 
+This project is open-source and free to use.'''
 
 
 
