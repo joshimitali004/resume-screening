@@ -1,7 +1,7 @@
 streamlit
-spacy
 sentence-transformers
-scikit-learn
-pdfplumber
-torch
+spacy
+nltk
+pymupdf
+
 
