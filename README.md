@@ -35,7 +35,7 @@ Installation & Setup
 sh
 Copy
 Edit
-git clone https://github.com/joshimitali004/resume-screening.git
+git clone https://github.com/username/resume-screening.git
 cd resume-screening
 2. Create a Virtual Environment (Optional but Recommended)
 sh
